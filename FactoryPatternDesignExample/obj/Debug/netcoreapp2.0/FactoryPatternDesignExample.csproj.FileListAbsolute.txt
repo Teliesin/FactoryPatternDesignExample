@@ -1,0 +1,11 @@
+C:\Users\Łukasz\source\repos\FactoryPatternDesignExample\FactoryPatternDesignExample\bin\Debug\netcoreapp2.0\FactoryPatternDesignExample.deps.json
+C:\Users\Łukasz\source\repos\FactoryPatternDesignExample\FactoryPatternDesignExample\bin\Debug\netcoreapp2.0\FactoryPatternDesignExample.runtimeconfig.json
+C:\Users\Łukasz\source\repos\FactoryPatternDesignExample\FactoryPatternDesignExample\bin\Debug\netcoreapp2.0\FactoryPatternDesignExample.runtimeconfig.dev.json
+C:\Users\Łukasz\source\repos\FactoryPatternDesignExample\FactoryPatternDesignExample\bin\Debug\netcoreapp2.0\FactoryPatternDesignExample.dll
+C:\Users\Łukasz\source\repos\FactoryPatternDesignExample\FactoryPatternDesignExample\bin\Debug\netcoreapp2.0\FactoryPatternDesignExample.pdb
+C:\Users\Łukasz\source\repos\FactoryPatternDesignExample\FactoryPatternDesignExample\obj\Debug\netcoreapp2.0\FactoryPatternDesignExample.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\source\repos\FactoryPatternDesignExample\FactoryPatternDesignExample\obj\Debug\netcoreapp2.0\FactoryPatternDesignExample.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\FactoryPatternDesignExample\FactoryPatternDesignExample\obj\Debug\netcoreapp2.0\FactoryPatternDesignExample.AssemblyInfoInputs.cache
+C:\Users\Łukasz\source\repos\FactoryPatternDesignExample\FactoryPatternDesignExample\obj\Debug\netcoreapp2.0\FactoryPatternDesignExample.AssemblyInfo.cs
+C:\Users\Łukasz\source\repos\FactoryPatternDesignExample\FactoryPatternDesignExample\obj\Debug\netcoreapp2.0\FactoryPatternDesignExample.dll
+C:\Users\Łukasz\source\repos\FactoryPatternDesignExample\FactoryPatternDesignExample\obj\Debug\netcoreapp2.0\FactoryPatternDesignExample.pdb
